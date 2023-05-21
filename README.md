@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alirezabaratian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is **Alireza Baratian**
+- 👀 I’m interested in everything involving computers.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on any innovative project.
+- 📫 You can reach me on [https://twitter.com/AlirezaBaratian](Twitter).
 
 <!---
 alirezabaratian/alirezabaratian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

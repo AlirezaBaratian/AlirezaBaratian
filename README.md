@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything involving computers.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on any innovative project.
-- 📫 You can reach me on [https://twitter.com/AlirezaBaratian](Twitter).
+- 📫 You can reach me on [Twitter](https://twitter.com/AlirezaBaratian).
 
 <!---
 alirezabaratian/alirezabaratian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

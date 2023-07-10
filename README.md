@@ -1,7 +1,7 @@
 - 👋 Hi, my name is **Alireza Baratian**
 - 👀 I’m interested in everything involving computers.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on any innovative project.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 You can reach me on [Twitter](https://twitter.com/AlirezaBaratian).
 
 <!---
